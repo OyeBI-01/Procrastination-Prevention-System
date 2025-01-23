@@ -25,10 +25,7 @@ The Procrastination Prevention System is an intelligent application designed to 
 ## 5. Log Analytics Dashboard
 • Visualize system events, including screen captures and notifications.
 
-• Generate charts for insights such as: 
-                                        -Frequency of different event types
-
-                                        -Timing of screenshots
+• Generate charts for insights such as: Frequency of different event types and Timing of screenshots
 
 ## File Structure
 
