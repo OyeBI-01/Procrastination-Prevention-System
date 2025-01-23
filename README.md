@@ -25,13 +25,30 @@ The Procrastination Prevention System is an intelligent application designed to 
 ## 5. Log Analytics Dashboard
 • Visualize system events, including screen captures and notifications.
 
-• Generate charts for insights such as: -Frequency of different event types
+• Generate charts for insights such as: 
+                                        -Frequency of different event types
 
                                         -Timing of screenshots
+
+## File Structure
+
+.
+├── main.py                # Main application script
+
+├── analytics_dashboard.py # Analytics dashboard script
+
+├── analytics.csv          # Log file for events
+
+├── requirements.txt       # Dependencies
+
+├── screenshots/           # Directory for saved screenshots
+
+└── README.md              # Project documentation
 
 
 ## Logging
 The application logs all activities to app.log:
+
 • User inputs
 
 • Notifications sent
