@@ -57,6 +57,7 @@ The application logs all activities to app.log:
 
 ## Analytics
 The analytics dashboard visualizes logged events from analytics.csv. Key insights include:
+
 • Breakdown of event types (e.g., screenshots, notifications)
 
 • Times of screenshot captures
